@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "nombre": "TECLADO GAMER",
+        "precio": 10000,
+        "cantidad": 1,
+        "imagen": "../images/productos/teclado-gamer.png"
+    },
+
+    {
+        "id": 2,
+        "nombre": "TECLADO DE OFICINA",
+        "precio": 75000,
+        "cantidad": 1,
+        "imagen": "../images/productos/teclado-oficina.png"
+        
+    },
+
+    {
+        "id": 3,
+        "nombre": "MOUSE GAMER",
+        "precio": 5000,
+        "cantidad": 1,
+        "imagen": "../images/productos/mouse-gamer.png"
+    },
+
+    {
+        "id": 4,
+        "nombre": "MOUSE DE OFICINA",
+        "precio": 5000,
+        "cantidad": 1,
+        "imagen": "../images/productos/mouse-oficina.png"
+    },
+
+    {
+        "id": 5,
+        "nombre": "AURICULARES",
+        "precio": 15000,
+        "cantidad": 1,
+        "imagen": "../images/productos/auriculares.png"
+    },
+
+    {
+        "id": 6,
+        "nombre": "MONITOR 144HZ",
+        "precio": 85000,
+        "cantidad": 1,
+        "imagen": "../images/productos/monitor-144hz.png"
+    },
+
+    {
+        "id": 7,
+        "nombre": "MONITOR 60HZ",
+        "precio": 30000,
+        "cantidad": 1,
+        "imagen": "../images/productos/monitor-60hz.png"
+    },
+
+    {
+        "id": 8,
+        "nombre": "PLACA DE VidEO",
+        "precio": 100000,
+        "cantidad": 1,
+        "imagen": "../images/productos/placa-de-video.png"
+    },
+
+    {
+        "id": 9,
+        "nombre": "PROCESADOR",
+        "precio": 50000,
+        "cantidad": 1,
+        "imagen": "../images/productos/procesador.png"
+    }
+]
