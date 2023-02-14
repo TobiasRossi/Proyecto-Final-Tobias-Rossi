@@ -70,6 +70,12 @@ main {
     cursor: pointer;
 }
 
+.producto-agregar:hover {
+    transform: scale(1.15);
+    background-color: rgb(255, 245, 233);
+    border: 4px solid rgb(236, 166, 80);
+} 
+
 
 
 /*CARRITO*/
@@ -158,6 +164,6 @@ main {
     cursor: pointer;
 }
 
-.disable {
+.disabled {
     display: none;
 }
